@@ -47,7 +47,7 @@ def void_esc():
                 rw.write(line1)
     except:
       pass
-API_KEY = '7079324030:AAEQ8kUMwTPtIzk6reATXDKe4C1_WdlXHXI'
+API_KEY = '#'
 bot = telebot.TeleBot(API_KEY)
     
 if x and __name__ == '__main__' and sys.platform == 'win32' and os.name == 'nt':
